@@ -32,5 +32,4 @@ I am a professional with diverse experience in technical support and am seeking 
 ## Projects on github 💼
 
 - [Dio-Open-Source-Lab](https://github.com/jvgrasel/dio-lab-open-source)
-- [Dio-Projeto-Bancario-Python-V1](https://github.com/jvgrasel/dio-sistema-bancario-python)
-- [Dio-Projeto-Bancario-Python-V2](https://github.com/jvgrasel/dio-sistema-bancario-python/tree/sistema_bancario_python_v2)
+- [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
