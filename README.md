@@ -33,6 +33,6 @@ I am a professional with diverse experience in technical support and am seeking 
 
 
 ## Projects on github 💼
-
+- [My Entertainment List](https://github.com/jvgrasel/myentertainmentlist)
 - [Dio-Open-Source-Lab](https://github.com/jvgrasel/dio-lab-open-source)
 - [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
