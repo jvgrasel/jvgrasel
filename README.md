@@ -15,11 +15,17 @@ I am a professional with diverse experience in technical support and am seeking 
 
 ## Skills 💻
 
-[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/) [![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)](https://www.sqlite.org/) [![Windows](https://img.icons8.com/?size=100&id=YJfJ0JM5Imsj&format=png&color=000000)](https://www.microsoft.com/) 
+[![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/) [![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)](https://www.sqlite.org/) [![Windows](https://img.icons8.com/?size=100&id=YJfJ0JM5Imsj&format=png&color=000000)](https://www.microsoft.com/)  [![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)](https://pandas.pydata.org/) [![Oracle PL/SQL](https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000)](https://www.oracle.com/br/database/technologies/appdev/plsql.html) <a href="https://cloud.google.com/bigquery">
+  <img src="https://github.com/user-attachments/assets/758711ef-eada-47c8-9112-55a9a4cc3b25" alt="BigQuery" width="100" height="100">
+</a>
 
 
  ## Currently studying 📚
- [![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)](https://pandas.pydata.org/) [![Oracle PL/SQL](https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000)](https://www.oracle.com/br/database/technologies/appdev/plsql.html) [![Apache Spark](https://img.icons8.com/?size=100&id=xgChbMh3wYDY&format=png&color=000000)](https://spark.apache.org/)
+ [![Apache Spark](https://img.icons8.com/?size=100&id=xgChbMh3wYDY&format=png&color=000000)](https://spark.apache.org/)  <a href="https://www.databricks.com">
+  <img src="https://github.com/user-attachments/assets/6135fee2-520d-43f2-b80b-24e719ed71c4" alt="DataBricks" width="100" height="100">
+</a> 
+
+
 
 
 ## Tools 🛠
@@ -34,5 +40,7 @@ I am a professional with diverse experience in technical support and am seeking 
 
 ## Projects on github 💼
 - [My Entertainment List](https://github.com/jvgrasel/myentertainmentlist)
-- [Dio-Open-Source-Lab](https://github.com/jvgrasel/dio-lab-open-source)
+
 - [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
+
+
