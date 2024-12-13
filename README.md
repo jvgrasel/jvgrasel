@@ -10,7 +10,7 @@ I am a professional with diverse experience in technical support and am seeking 
 
 ## How to find me 📫
 
-[![GitHub](https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000)](https://github.com/jvgrasel/jvgrasel) [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/jgrasel/) [![E-mail](https://img.icons8.com/?size=100&id=44829&format=png&color=000000)](mailto:joathan94@yahoo.com) [![WhatsApp](https://img.icons8.com/?size=100&id=30448&format=png&color=000000)](https://wa.me/555+051+985337571)
+[![GitHub](https://img.icons8.com/?size=100&id=u9R54eMKS8fw&format=png&color=000000)](https://github.com/jvgrasel/jvgrasel) [![LinkedIn](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)](https://www.linkedin.com/in/jgrasel/) [![E-mail](https://img.icons8.com/?size=100&id=44829&format=png&color=000000)](mailto:joathan94@yahoo.com) [![WhatsApp](https://img.icons8.com/?size=100&id=30448&format=png&color=000000)](https://wa.me/5551985337571)
 
 
 ## Skills 💻
