@@ -16,16 +16,16 @@ I am a professional with diverse experience in technical support and am seeking 
 ## Skills 💻
 
 [![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)](https://www.python.org/) [![SQLite](https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000)](https://www.sqlite.org/) [![Windows](https://img.icons8.com/?size=100&id=YJfJ0JM5Imsj&format=png&color=000000)](https://www.microsoft.com/)  [![Pandas](https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000)](https://pandas.pydata.org/) [![Oracle PL/SQL](https://img.icons8.com/?size=100&id=8ljTDYUEydbJ&format=png&color=000000)](https://www.oracle.com/br/database/technologies/appdev/plsql.html) <a href="https://cloud.google.com/bigquery">
-  <img src="https://github.com/user-attachments/assets/758711ef-eada-47c8-9112-55a9a4cc3b25" alt="BigQuery" width="100" height="100">
+  <img src="https://github.com/user-attachments/assets/758711ef-eada-47c8-9112-55a9a4cc3b25" alt="BigQuery" width="100" height="100">  [![Apache Spark](https://img.icons8.com/?size=100&id=xgChbMh3wYDY&format=png&color=000000)](https://spark.apache.org/)  <a href="https://www.databricks.com">
+  <img src="https://github.com/user-attachments/assets/6135fee2-520d-43f2-b80b-24e719ed71c4" alt="DataBricks" width="100" height="100">
+</a> 
+
 </a>
 
 
  ## Currently studying 📚
- [![Apache Spark](https://img.icons8.com/?size=100&id=xgChbMh3wYDY&format=png&color=000000)](https://spark.apache.org/)  <a href="https://www.databricks.com">
-  <img src="https://github.com/user-attachments/assets/6135fee2-520d-43f2-b80b-24e719ed71c4" alt="DataBricks" width="100" height="100">
-</a> 
 
-
+<a href="https://airflow.apache.org"> <img src="https://github.com/user-attachments/assets/c8ad441f-538d-4c1b-ac9b-1e9403866b01" alt="AirFlow" width="100" height="100"> [![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/) 
 
 
 ## Tools 🛠
@@ -35,7 +35,7 @@ I am a professional with diverse experience in technical support and am seeking 
 
 ## Goals 📌
 
-[![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/) [![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/) [![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/) 
+[![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/) [![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/) 
 
 
 ## Projects on github 💼
@@ -43,4 +43,5 @@ I am a professional with diverse experience in technical support and am seeking 
 
 - [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
 
+![Apache Airflow](https://github.com/user-attachments/assets/c8ad441f-538d-4c1b-ac9b-1e9403866b01)
 
