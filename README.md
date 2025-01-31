@@ -25,7 +25,7 @@ I am a professional with diverse experience in technical support and am seeking 
 
  ## Currently studying 📚
 
-<a href="https://airflow.apache.org"> <img src="https://github.com/user-attachments/assets/c8ad441f-538d-4c1b-ac9b-1e9403866b01" alt="AirFlow" width="100" height="100"> [![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/) 
+<a href="https://airflow.apache.org"> <img src="https://github.com/user-attachments/assets/c8ad441f-538d-4c1b-ac9b-1e9403866b01" alt="AirFlow" width="100" height="100">  [![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/)
 
 
 ## Tools 🛠
@@ -35,7 +35,7 @@ I am a professional with diverse experience in technical support and am seeking 
 
 ## Goals 📌
 
-[![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/) [![AWS](https://img.icons8.com/?size=100&id=33039&format=png&color=000000)](https://aws.amazon.com/) 
+[![Linux](https://img.icons8.com/?size=100&id=17842&format=png&color=000000)](https://www.linux.org/)  [![Azure](https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000)](https://azure.microsoft.com/) 
 
 
 ## Projects on github 💼
@@ -43,5 +43,5 @@ I am a professional with diverse experience in technical support and am seeking 
 
 - [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
 
-![Apache Airflow](https://github.com/user-attachments/assets/c8ad441f-538d-4c1b-ac9b-1e9403866b01)
+
 
