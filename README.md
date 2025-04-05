@@ -39,6 +39,8 @@ I am a professional with diverse experience in technical support and am seeking 
 
 
 ## Projects on github 💼
+- [Data Engineering Project - MovieDataFlow - END TO END](https://github.com/jvgrasel/projeto_spark_airflow) IN PROGRESS
+
 - [My Entertainment List](https://github.com/jvgrasel/myentertainmentlist)
 
 - [Dio-Projeto-Bancario-Python](https://github.com/jvgrasel/dio-sistema-bancario-python)
